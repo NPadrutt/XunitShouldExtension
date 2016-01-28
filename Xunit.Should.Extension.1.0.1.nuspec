@@ -2,9 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Xunit.Should.Extension</id>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <title>Xunit Should Extension</title>
         <authors>NPadrutt</authors>
+        <owners>NPadrutt</owners>
         <projectUrl>https://github.com/NPadrutt/XunitShouldExtension</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Adds an Should for fluent Asserts with xUnit.net.</description>
