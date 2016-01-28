@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Xunit.Should.Extension</id>
+        <version>1.0.0</version>
+        <title>Xunit Should Extension</title>
+        <authors>NPadrutt</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Adds an Should for fluent Asserts with xUnit.net.</description>
+        <dependencies>
+            <dependency id="xunit" version="2.0.0" />
+        </dependencies>
+    </metadata>
+    <files />
+</package>
