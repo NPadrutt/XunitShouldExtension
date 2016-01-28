@@ -5,6 +5,7 @@
         <version>1.0.0</version>
         <title>Xunit Should Extension</title>
         <authors>NPadrutt</authors>
+        <projectUrl>https://github.com/NPadrutt/XunitShouldExtension</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Adds an Should for fluent Asserts with xUnit.net.</description>
         <dependencies>
